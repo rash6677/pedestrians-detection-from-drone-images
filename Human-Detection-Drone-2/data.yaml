@@ -1,0 +1,12 @@
+names:
+- Person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: human-detection-drone-4jxmz
+  url: https://universe.roboflow.com/human-detection-b4c9z/human-detection-drone-4jxmz/dataset/2
+  version: 2
+  workspace: human-detection-b4c9z
+test: ../test/images
+train: Human-Detection-Drone-2/train/images
+val: Human-Detection-Drone-2/valid/images
